@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Cuando conozcas la URL publicada, reemplaza https://TU-USUARIO.github.io/TU-REPOSITORIO/ por la URL real y guarda este archivo como sitemap.xml -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://TU-USUARIO.github.io/TU-REPOSITORIO/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
